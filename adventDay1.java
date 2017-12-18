@@ -40,13 +40,13 @@ public class adventDay1{
         if(trans == trans2)
         {
           weirdSum = weirdSum + trans;
-          System.out.println("Value added to weirdSum: " + trans);
+          //System.out.println("Value added to weirdSum: " + trans);
         }
 
     }
 
     //System.out.println("weirdSum is equal to: " + weirdSum);
-    System.out.printf("Weird sum is equal to:%3d \n", weirdSum);
+    System.out.printf("Weird sum is equal to: %3d \n", weirdSum);
 
 
 
